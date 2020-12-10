@@ -1,0 +1,17 @@
+form {
+    width: 200px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.name{
+    width:100%;
+}
+.comment{
+    height: 300px;
+    width:100%;
+}
+.btn{
+    color: white;
+    background-color: teal;
+    border-color: teal;
+}
